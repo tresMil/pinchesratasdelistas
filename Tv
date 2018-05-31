@@ -1,0 +1,2392 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Mexico",AZTECA UNO HD
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+#EXTINF:-1 group-title="Mexico",Las Estrellas
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/index_1048_av-b.m3u8
+#EXTINF:-1 group-title="Mexico",Las Estrellas
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8 
+
+#EXTINF:-1 group-title="Mexico",FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?/MartinRTNEWS.m3u8
+
+#EXTINF:-1 group-title="Mexico",FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1 group-title="Mexico",FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1 group-title="Mexico",canal 5 sd
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 5 hd 
+http://tvsabldep-lh.akamaihd.net/i/c3n4dep01_1@141897/index_640_av-p.m3u8
+#EXTINF:-1 group-title="Mexico",Galatv
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+
+#EXTINF:-1 group-title="Mexico",A+ HD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+#EXTINF:-1 group-title="Mexico",ADN 40 HD
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:-1 group-title="Mexico",Azteca 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8
+
+
+#EXTINF:-1 group-title="Mexico",Azteca uno
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1 group-title="Mexico",Azteca 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="Mexico",A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8#
+#EXTINF:-1 group-title="Mexico",FORO TV2 720
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8
+
+
+#EXTINF:-1 group-title="Mexico",EFEKTO TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+
+#EXTINF:-1 group-title="Mexico",ADN 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="Mexico",A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+
+#EXTINF:-1 group-title="Mexico",CANAL 10 CHETUMAL
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexico",Canal ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexico",CANAL 11
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+
+#EXTINF:-1 group-title="Mexico",CANAL 11
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+
+#EXTINF:-1 group-title="Mexico",CANAL 11 MEXICO
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1339977921_b1300000_slesp.m3u8
+
+#EXTINF:-1 group-title="Mexico",CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
+
+#EXTINF:-1 group-title="Mexico",ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="Mexico",ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="Mexico",ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+#EXTINF:-1 group-title="Mexico",TV MEXIQUENSE 34
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?
+
+#EXTINF:-1 group-title="Mexico",TV MEXIQUENSE 34
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1 group-title="Mexico",TV CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+
+#EXTINF:-1 group-title="Mexico",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="Mexico",MULTIMEDIOS MONTERREY
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+
+#EXTINF:-1 group-title="Mexico",RTG ACAPULCO
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexico",TV Más
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?tecnotv.info?iptv.m3u8?hermoso.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1 group-title="Mexico",TV Más
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+
+#EXTINF:-1 group-title="Mexico",TOREON MEXICO
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexico",TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+
+#EXTINF:-1 group-title="Mexico",Tlaxcala Television
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexico",CANAL 10 CHIAPAS
+http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
+#EXTINF:-1 group-title="Mexico",Trecevision Yucatan
+http://streamingcws10.com:1935/trecevision/videotrecevision/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexico",TRECEVISION YUCATAN
+http://streamingcws10.com:1935/trecevision/videotrecevision/playlist.m3u
+#EXTINF:-1 group-title="Mexico",15TV Sabinas
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexico",TV3 Puebla
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist_b1000582.m3u8
+
+#EXTINF:-1 group-title="Mexico",OCHO TV JALISCO
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:-1 group-title="Mexico",APLRENDE TV MEX
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlis
+
+
+
+
+#EXTINF:-1 group-title="premium",Baby TV
+http://tecnotv.info/premium/babytv
+#EXTINF:-1 group-title="premium",Cartoon Network
+http://tecnotv.info/premium/cartoon
+#EXTINF:-1 group-title="premium",Discovery kids
+http://tecnotv.info/premium/discovery-kids
+#EXTINF:-1 group-title="premium",Disney Channel
+http://tecnotv.info/premium/disney-channel
+#EXTINF:-1 group-title="premium",Disney Jr
+http://tecnotv.info/premium/disney-jr
+#EXTINF:-1 group-title="premium",Disney XD
+http://tecnotv.info/premium/disney-xd
+#EXTINF:-1 group-title="premium",Natgeo Kids
+http://tecnotv.info/premium/natgeo-kids
+#EXTINF:-1 group-title="premium",Nick
+http://tecnotv.info/premium/nick
+#EXTINF:-1 group-title="premium",Nick 2
+http://tecnotv.info/premium/nick2
+#EXTINF:-1 group-title="premium",Nick Jr
+http://tecnotv.info/premium/nick-jr
+#EXTINF:-1 group-title="premium",Gourmet
+http://tecnotv.info/premium/gourmet
+#EXTINF:-1 group-title="premium",Animal Planet
+http://tecnotv.info/premium/animal-planet
+#EXTINF:-1 group-title="premium",Discovery HH
+http://tecnotv.info/premium/hh
+#EXTINF:-1 group-title="premium",Discovery ID
+http://tecnotv.info/premium/id
+#EXTINF:-1 group-title="premium",Discovery Science
+http://tecnotv.info/premium/sc
+#EXTINF:-1 group-title="premium",Discovery Turbo
+http://tecnotv.info/premium/turbo
+#EXTINF:-1 group-title="premium",Discovery World
+http://tecnotv.info/premium/world
+#EXTINF:-1 group-title="premium",History Channel
+http://tecnotv.info/premium/hisory
+#EXTINF:-1 group-title="premium",H2
+http://tecnotv.info/premium/h2
+#EXTINF:-1 group-title="premium",Natgeo
+http://tecnotv.info/premium/natgeo
+#EXTINF:-1 group-title="premium",NatGeo Wild
+http://tecnotv.info/premium/natgeo-wild
+#EXTINF:-1 group-title="premium",TLC
+http://tecnotv.info/premium/tlc
+#EXTINF:-1 group-title="premium",AE
+http://tecnotv.info/premium/ae
+#EXTINF:-1 group-title="premium",Canal 5
+http://tecnotv.info/premium/canal5
+#EXTINF:-1 group-title="premium",Comedia Central
+http://tecnotv.info/premium/comedia-central
+#EXTINF:-1 group-title="premium",E¡
+http://tecnotv.info/premium/e
+#EXTINF:-1 group-title="premium",Fox Life
+http://tecnotv.info/premium/fox-life
+#EXTINF:-1 group-title="premium",FX
+http://tecnotv.info/premium/fx
+
+#EXTINF:-1 group-title="premium",AMC
+http://tecnotv.info/premium/amc
+#EXTINF:-1 group-title="premium",AXN
+http://tecnotv.info/premium/axn
+#EXTINF:-1 group-title="premium",Cinecanal
+http://tecnotv.info/premium/cinecanal
+#EXTINF:-1 group-title="premium",Cinemax
+http://tecnotv.info/premium/cinemax
+#EXTINF:-1 group-title="premium",Fox Action
+http://tecnotv.info/premium/fox-action
+#EXTINF:-1 group-title="premium",Fox Cinema
+http://tecnotv.info/premium/fox-cinema
+#EXTINF:-1 group-title="premium",Fox Family
+http://tecnotv.info/premium/fox-family
+#EXTINF:-1 group-title="premium",Golden
+http://tecnotv.info/premium/golden
+#EXTINF:-1 group-title="premium",HBO
+http://tecnotv.info/premium/hbo
+#EXTINF:-1 group-title="premium",HBO 2
+http://tecnotv.info/premium/hbo2
+#EXTINF:-1 group-title="premium",HBO Family
+http://tecnotv.info/premium/hbo-family
+#EXTINF:-1 group-title="premium",HBO PLUS
+http://tecnotv.info/premium/hbo-plus
+#EXTINF:-1 group-title="premium",MAX Prime
+http://tecnotv.info/premium/maxprime
+#EXTINF:-1 group-title="premium",SONY
+http://tecnotv.info/premium/sony
+#EXTINF:-1 group-title="premium",SPACE
+http://tecnotv.info/premium/space
+#EXTINF:-1 group-title="premium",Studio Universal
+http://tecnotv.info/premium/studio-universal
+#EXTINF:-1 group-title="premium",SyFy
+http://tecnotv.info/premium/syfy
+#EXTINF:-1 group-title="premium",TCM
+http://tecnotv.info/premium/tcm
+#EXTINF:-1 group-title="premium",TNT
+http://tecnotv.info/premium/tnt
+#EXTINF:-1 group-title="premium",TNT Series
+http://tecnotv.info/premium/tnt-series
+#EXTINF:-1 group-title="premium",Universal Channel
+http://tecnotv.info/premium/universal-channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n62eZ1f.png" group-title="CANALES PREMIUM 1080P",FOX SPORTS 1080P CALIDAD LISTA PRIVADA PLUS
+http://tvpremiumhd.club/lista-gratuita/apple/g408.ts
+#EXTINF:-1 group-title="premium",Bein Sport
+http://tecnotv.info/premium/bein
+#EXTINF:-1 group-title="premium",Claro Sport
+http://tecnotv.info/premium/claros
+#EXTINF:-1 group-title="premium",Directv Sport
+http://tecnotv.info/premium/directv
+#EXTINF:-1 group-title="premium",ESPN+
+http://tecnotv.info/premium/espn-plus
+#EXTINF:-1 group-title="premium",ESPN
+http://tecnotv.info/premium/espn
+#EXTINF:-1 group-title="premium",ESPN 2
+http://tecnotv.info/premium/espn2
+#EXTINF:-1 group-title="premium",ESPN 3
+http://tecnotv.info/premium/espn3
+#EXTINF:-1 group-title="premium",Fox Sport
+http://tecnotv.info/premium/fox-sport
+#EXTINF:-1 group-title="premium",Fox Sport 2
+http://tecnotv.info/premium/fox-sport2
+
+
+
+#EXTINF:-1 group-title="premium",MLB
+http://tecnotv.info/premium/mlb
+#EXTINF:-1 group-title="premium",NFL
+http://tecnotv.info/premium/nfl
+#EXTINF:-1 group-title="premium",TDN
+http://tecnotv.info/premium/tdn
+#EXTINF:-1 group-title="premium",TNT Sport
+http://tecnotv.info/premium/tnt-sport
+#EXTINF:-1 group-title="premium",TYC Sport
+http://tecnotv.info/premium/tyc-sport
+#EXTINF:-1 group-title="premium",UFC
+http://tecnotv.info/premium/ufc
+#EXTINF:-1 group-title="premium",Univision TDN
+http://tecnotv.info/premium/univision-tdn
+#EXTINF:-1 group-title="premium",Win Sport
+http://tecnotv.info/premium/win
+#EXTINF:-1 group-title="premium",Bandamax
+http://tecnotv.info/premium/bandamax
+#EXTINF:-1 group-title="premium",MTV Live
+http://tecnotv.info/premium/mtvlive
+#EXTINF:-1 group-title="premium",Ritmoson
+http://tecnotv.info/premium/ritmoson
+#EXTINF:-1 group-title="premium",Telehit
+http://tecnotv.info/premium/telehit
+#EXTINF:-1 group-title="premium",VH1
+http://tecnotv.info/premium/vh1
+
+
+
+#EXTINF:-1,ESTRELLAS SD  
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESTRELLAS_SD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",MEXICO:TLNOVELAS
+http://live.izzitv.mx/Content/HLS/Live/Channel(TLNOVELAS)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",MEXICO:Azteca 7
+http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",MEXICO:CANAL 5
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",MEXICO:GALATV
+http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",MEXICO:DE PELICULA
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:CNN
+http://live.izzitv.mx/Content/HLS/Live/Channel(CNN_ESP)/index.m3u8
+
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:UNICABLE
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:EL GOURMET
+http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:NATGEO
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:NATGEO WILD
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:TBS
+http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:ISAT
+http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:AMC
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:TCM
+http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:TRUTV
+http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:E!
+http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:A&amp;E
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",DISTRITO COMEDIA
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:COMEDY CENTRAL
+http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:Lifetime
+http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:CINEMAX
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:HISTORY
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:H2
+http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:SONY
+http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:WARNER BROTHER
+http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:GOLDEN
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:AXN
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:SPACE
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",TNT
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8 
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:TNT SERIES
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:MTV
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:TELEHIT
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:BANDAMAX
+http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",PREMIUM:RITMOSON
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",INFANTILES:NICK JR
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",INFANTILES:TIIN
+http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",INFANTILES:NICK
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",INFANTILES:NICK 2
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK2_HD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",INFANTILES:BOOMERANG
+http://live.izzitv.mx/Content/HLS/Live/Channel(BOOMERANG)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",INFANTILES:CARTOON NETWORK
+http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",DEPORTES:TDN
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",ESPN HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",ESPN2 HD IZZI
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",MTV 
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
+#EXTINF:-1 group-title="Izzi TV",TELEHIT
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8 
+
+#EXTINF:-1,WARNER   
+http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
+#EXTINF:-1,SUNDANCE CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
+#EXTINF:-1,MILENIO HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
+#EXTINF:-1,HOLA TV
+http://live.izzitv.mx/Content/HLS/Live/Channel(HOLA_TV)/index.m3u8
+#EXTINF:-1,NAT GEO
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1,ATRES SERIES
+http://live.izzitv.mx/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u
+#EXTINF:-1,FUSION   
+http://live.izzitv.mx/Content/HLS/Live/Channel(FUSION)/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", TCM 
+http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Mundo".TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+
+#EXTINF:-1 group-title="Deportes",ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+
+
+
+
+#EXTINF:-1,CDO PREMIUM
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Latinos",Telemetro
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-480p/chunks.m3u8
+#EXTINF:-1 group-title="Latinos",RPC hd TV
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-480p/chunks.m3u8
+#EXTINF:-1 group-title="Latinos",RPC TV
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",DW ESP
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
+
+#EXTINF:-1 group-title="Latinos",DW LATINOAMERICA
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 group-title="Latinos",Tv Peru
+http://cdnh15.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 group-title="Latinos",COS CABLEONDA SPORT
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:-1 group-title="Latinos",CableOnda Sports FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+#EXTINF:-1 group-title="Latinos",TELESUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",Ecuavisa
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Latinos",-MODA-
+http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
+
+#EXTINF:-1 group-title="Latinos",ID Fashion
+http://95.67.8.22/hls/idfashion/index.m3u8
+
+#EXTINF:-1 group-title="Latinos",HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 group-title="Latinos",Public Tv Fashion
+http://cdn-11.bonus-tv.ru/publictv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Latinos",NASA Space Station 1
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 group-title="Latinos",NASA Space Station 2
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IAKNmUc.png" group-title="CHILE", [COLOR red]CHILE[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", TVN | HD
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HN9mYDP.png" group-title="CHILE", MEGA | HD
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AopOaEX.jpg" group-title="CHILE", CHV | HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HqKYZvm.png" group-title="CHILE", Canal 13 | SD
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RSsii5.png" group-title="CHILE", T13 Movil | SD
+http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dd9PMar.png" group-title="CHILE", CNN Chile | HD (Mirror USA)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="CHILE", 24 Play | HD
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0kJfD7l.png" group-title="CHILE", TV Chile | SD
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hqlqsn3.png" group-title="CHILE", Ahora Noticias | HD
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsrVp3u.png" group-title="CHILE", NIU TV | HD
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HGma9m.png" group-title="CHILE", CDO | SD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="CHILE", Canal 9 | HD | Concepcion
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lg6TVYn.png" group-title="CHILE", Camara de Diputados | SD
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lg6TVYn.png" group-title="CHILE", Camara de Diputados (DVR) | SD
+http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="CHILE", TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="CHILE", Teletrak | HD
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="CHILE", Sporting | HD
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="CHILE", FM Hot | HD
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", TVN Señal de Pruebas | HD
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/heY1Ppv.png" group-title="DEPORTES", [COLOR red]DEPORTES[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zBW4BMS.jpg" group-title="DEPORTES", CableOnda Sports | HD
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zBW4BMS.jpg" group-title="DEPORTES", CableOnda Sports FC | HD
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hOYnTVm.png" group-title="DEPORTES", Olympic Channel | FHD
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bpGQUNy.png" group-title="DEPORTES", NFL Now | HD
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tmZnMy.png" group-title="DEPORTES", Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyAsaqb.png" group-title="DEPORTES", DeporTV | SD
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNXH4cj.png" group-title="DEPORTES", Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="DEPORTES", Sevilla FC | SD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="DEPORTES", MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6IwTd2.jpg" group-title="DEPORTES", Mundo Auto Television | HD
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="DEPORTES", Pac-12 Arizona | FHD
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="DEPORTES", Pac-12 Bay Area | FHD
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="DEPORTES", Pac-12 Los Angeles | FHD
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="DEPORTES", Pac-12 Mountain | FHD
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="DEPORTES", Pac-12 Oregon | FHD
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="DEPORTES", Pac-12 Washington | FHD
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDkXBq6.png" group-title="DEPORTES", Rugby TV | SD
+http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IU8OrKh.png" group-title="DEPORTES", NBC Golf | HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ICm1kVG.png" group-title="DEPORTES", Fox Sports News (Australia) | HD
+https://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 1 | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 2 | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpqhqzL.jpg" group-title="DEPORTES", La Liga TV | FHD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futbol | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RvUxWgn.png" group-title="DEPORTES",  Movistar MotoGP | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnTCqMT.png" group-title="DEPORTES", Movistar Golf | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png" group-title="DEPORTES", Movistar Formula 1 | FHD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 | HD
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 (Alt) | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 2 | FHD
+http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/78/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 2 (Alt) | FHD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ma9Kz5T.png" group-title="DEPORTES", Box Nation | SD
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/316/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh7sw8g.png" group-title="DEPORTES", Premiere Sports | SD
+http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/47/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt6fvvy.jpg" group-title="DEPORTES", Skysports 1 | FHD
+http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/737/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPF2sGo.jpg" group-title="DEPORTES", Skysports 2 | FHD
+http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/733/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RD8lq2o.png" group-title="DEPORTES", Rai Sport | SD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xex0vq5.jpg" group-title="DEPORTES", Sports TV | SD
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports | SD
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports 2 | SD
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF HD (720)" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/med_gallery_1157_6_16978.png" group-title="CHILE",CDF HD (720)
+http://tvpremiumhd.club/lista-gratuita/apple/tv/l/21599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHI-FOX SPORTS 1 (720)" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1178_2_13968.png" group-title="CHILE",CHI-FOX SPORTS 1 (720)
+http://tvpremiumhd.club/lista-gratuita/apple/tv/l/21592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHI-FOX SPORTS 1 [720]" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1178_2_13968.png" group-title="CHILE",CHI-FOX SPORTS 1 [720]
+http://tvpremiumhd.club/lista-gratuita/apple/tv/l/19180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CDO PREMIUM HD" tvg-logo="http://tecnotv.info/logoss/cdo.jpg" group-title="CHILE",CHI-CDO PREMIUM HD
+http://tvpremiumhd.club/lista-gratuita/apple/tv/l/28808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHI- CDO [OP2]" tvg-logo="http://www.fevochi.cl/wp-content/uploads/2012/04/CDO-250.jpg" group-title="CHILE",CHI- CDO [OP2]
+http://tvpremiumhd.club/lista-gratuita/apple/tv/l/23415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CDO [OP2]" tvg-logo="http://www.fevochi.cl/wp-content/uploads/2012/04/CDO-250.jpg" group-title="CHILE",CHI-CDO [OP2]
+http://tvpremiumhd.club/lista-gratuita/apple/tv/l/17988.m3u8
+#EXTM3U#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="CANALES 24/7",LISTA GRATUITA 22/MAY/2018
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4ouffE.png" group-title="CANALES PREMIUM 1080P",TNT 1080P CALIDAD LISTA PRIVADA PLUS
+http://tvpremiumhd.club/lista-gratuita/apple/g36.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aHCTHz.jpg" group-title="CANALES PREMIUM 1080P",HBO PLUS 1080P CALIDAD LISTA PRIVADA PLUS
+http://tvpremiumhd.club/lista-gratuita/apple/g49.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bpYcjC3.png" group-title="CANALES PREMIUM 1080P",GOLDEN PLUS  1080P 1080P CALIDAD LISTA PRIVADA PLUS
+http://tvpremiumhd.club/lista-gratuita/apple/g125.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Vb5kv2.jpg" group-title="CANALES PREMIUM 1080P",FOX PREMIUN MOVIES 1080P 1080P CALIDAD LISTA PRIVADA PLUS
+http://tvpremiumhd.club/lista-gratuita/apple/g32.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWKWo9l.png" group-title="CANALES PREMIUM 1080P",TRU TV 1080P CALIDAD LISTA PRIVADA PLUS
+http://tvpremiumhd.club/lista-gratuita/apple/g313.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GqsIi3U.jpg" group-title="CANALES PREMIUM 1080P",ANIMAL PLANET 1080P CALIDAD LISTA PRIVADA PLUS
+http://tvpremiumhd.club/lista-gratuita/apple/g233.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiLefq7.jpg" group-title="CANALES PREMIUM 1080P",NICK JR 1080P 1080P CALIDAD LISTA PRIVADA PLUS
+http://tvpremiumhd.club/lista-gratuita/apple/g597.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldClQQB.jpg" group-title="CANALES PREMIUM 1080P",MAX UP 1080P CALIDAD LISTA PRIVADA PLUS
+http://tvpremiumhd.club/lista-gratuita/apple/g89.ts
+
+#EXTINF:-1 group-title="LATINO2",ES_FHD:CANAL DEPORTES 1 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77771.ts
+#EXTINF:-1 group-title="LATINO2",ES_FHD:CANAL DEPORTES 2 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77770.ts
+#EXTINF:-1 group-title="LATINO2",ES_FHD:CANAL FUTBAL HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77769.ts
+#EXTINF:-1 group-title="LATINO2",ES_FHD:TELEDEPORTE HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77767.ts
+#EXTINF:-1 group-title="LATINO2",LA: 5 StarMax FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102009.ts
+#EXTINF:-1 group-title="LATINO2",LA: 5 TELEMICRO RD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68781.ts
+#EXTINF:-1 group-title="LATINO2",LA: 8 TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80151.ts
+#EXTINF:-1 group-title="LATINO2",LA: 13 C CHILE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77802.ts
+#EXTINF:-1 group-title="LATINO2",LA: 13 CABLE (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99832.ts
+#EXTINF:-1 group-title="LATINO2",LA: 13 TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80153.ts
+#EXTINF:-1 group-title="LATINO2",LA: 24/7 Terror 2 FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101978.ts
+#EXTINF:-1 group-title="LATINO2",LA: 24/7 Terror 2 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101555.ts
+#EXTINF:-1 group-title="LATINO2",LA: 24/7 Terror FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101979.ts
+#EXTINF:-1 group-title="LATINO2",LA: 24/7 Terror HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101554.ts
+#EXTINF:-1 group-title="LATINO2",LA: 360 TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80152.ts
+#EXTINF:-1 group-title="LATINO2",LA: 52MX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68780.ts
+#EXTINF:-1 group-title="LATINO2",LA: A&E HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68433.ts
+#EXTINF:-1 group-title="LATINO2",LA: A24 FHD LAM
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80162.ts
+#EXTINF:-1 group-title="LATINO2",LA: A3 SERIES HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77758.ts
+#EXTINF:-1 group-title="LATINO2",LA: ActionMax FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102008.ts
+#EXTINF:-1 group-title="LATINO2",LA: ADN40
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101294.ts
+#EXTINF:-1 group-title="LATINO2",LA: Agro Canal
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68840.ts
+#EXTINF:-1 group-title="LATINO2",LA: AMC HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68407.ts
+#EXTINF:-1 group-title="LATINO2",LA: AMERICA TELEVISION (PERU)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99856.ts
+#EXTINF:-1 group-title="LATINO2",LA: AMERICA TV (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99800.ts
+#EXTINF:-1 group-title="LATINO2",LA: AMERICAN DAD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101565.ts
+#EXTINF:-1 group-title="LATINO2",LA: ANIMAL PLANET (Mexico)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101313.ts
+#EXTINF:-1 group-title="LATINO2",LA: ANIMAL PLANET HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68553.ts
+#EXTINF:-1 group-title="LATINO2",LA: ANTARES TV (PERU)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99860.ts
+#EXTINF:-1 group-title="LATINO2",LA: Antena 3 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68512.ts
+#EXTINF:-1 group-title="LATINO2",LA: ANTENA 3 SERIES
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68487.ts
+#EXTINF:-1 group-title="LATINO2",LA: ANTI-ESTRES 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77816.ts
+#EXTINF:-1 group-title="LATINO2",LA: ANTI-ESTRES II 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77815.ts
+#EXTINF:-1 group-title="LATINO2",LA: ANTI-ESTRES III 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77814.ts
+#EXTINF:-1 group-title="LATINO2",LA: ARTS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/89695.ts
+#EXTINF:-1 group-title="LATINO2",LA: ATV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77880.ts
+#EXTINF:-1 group-title="LATINO2",LA: AUTOS MUNDO HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68550.ts
+#EXTINF:-1 group-title="LATINO2",LA: AXN HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68480.ts
+#EXTINF:-1 group-title="LATINO2",LA: AyM Sports
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68850.ts
+#EXTINF:-1 group-title="LATINO2",LA: AZ MAS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/89697.ts
+#EXTINF:-1 group-title="LATINO2",LA: AZ UNO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/89698.ts
+#EXTINF:-1 group-title="LATINO2",LA: AZTECA 7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77856.ts
+#EXTINF:-1 group-title="LATINO2",LA: Azteca 13
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68637.ts
+#EXTINF:-1 group-title="LATINO2",LA: Azteca 13 (Mexico)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/89699.ts
+#EXTINF:-1 group-title="LATINO2",LA: Azteca Cinema HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77745.ts
+#EXTINF:-1 group-title="LATINO2",LA: Azteca Coraz�n
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68549.ts
+#EXTINF:-1 group-title="LATINO2",LA: AZTECA HONDURAS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68779.ts
+#EXTINF:-1 group-title="LATINO2",LA: AZTECA PLUS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77810.ts
+#EXTINF:-1 group-title="LATINO2",LA: BABY TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68511.ts
+#EXTINF:-1 group-title="LATINO2",LA: BANDAMAX HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68367.ts
+#EXTINF:-1 group-title="LATINO2",LA: BBC ENTERTAINMENT
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68895.ts
+#EXTINF:-1 group-title="LATINO2",LA: BBC WORLD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68604.ts
+#EXTINF:-1 group-title="LATINO2",LA: BLOOMBERG HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77751.ts
+#EXTINF:-1 group-title="LATINO2",LA: BoliviaTV en VIVO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80167.ts
+#EXTINF:-1 group-title="LATINO2",LA: BOOMERANG
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68548.ts
+#EXTINF:-1 group-title="LATINO2",LA: BOX NATION
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68496.ts
+#EXTINF:-1 group-title="LATINO2",LA: CABALLEROS DEL ZODIACO 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77844.ts
+#EXTINF:-1 group-title="LATINO2",LA: CABLEONDA SPORTS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77870.ts
+#EXTINF:-1 group-title="LATINO2",LA: CABLEONDA SPORTS 270p
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77871.ts
+#EXTINF:-1 group-title="LATINO2",LA: CABLEONDA SPORTS FC
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77868.ts
+#EXTINF:-1 group-title="LATINO2",LA: CACANAL DE LAS ESTRELLAS HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68587.ts
+#EXTINF:-1 group-title="LATINO2",LA: Calan 26 LAM (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99963.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL 4 (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/94271.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL 4 ARG
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77760.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL 4 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68464.ts
+#EXTINF:-1 group-title="LATINO2",LA: Canal 5 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80190.ts
+#EXTINF:-1 group-title="LATINO2",LA: Canal 5 HD (MEX)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77777.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL 5 HONDURAS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68486.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL 7 TV PUBLICA ARG
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68776.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL 11 HD (Honduras)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68495.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL 22
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97557.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL 26 (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99810.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL 26 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68379.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL 27 (RDOM)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99843.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL ANTIESTRES (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68708.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL CAPITAL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68707.ts
+#EXTINF:-1 group-title="LATINO2",LA: Canal Capital HD (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77521.ts
+#EXTINF:-1 group-title="LATINO2",LA: Canal De Las Estrellas HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77928.ts
+#EXTINF:-1 group-title="LATINO2",LA: Canal Disney HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101556.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL M (URUGUAY)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99854.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL N
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77879.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL N URUGUAY
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77739.ts
+#EXTINF:-1 group-title="LATINO2",LA: Canal Once (Mexico)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97556.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL ONCE (VENEZUELA)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99850.ts
+#EXTINF:-1 group-title="LATINO2",LA: Canal U (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/94280.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL Uno (Ecuador)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78654.ts
+#EXTINF:-1 group-title="LATINO2",LA: Canal Wow TV (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77519.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL13
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77537.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL13 (Chile) HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68475.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANAL2 MX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97677.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANALl 5 MEX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68774.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cantinazo (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97680.ts
+#EXTINF:-1 group-title="LATINO2",LA: CANTINFLAS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101567.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cantinflas y Pedro Infante
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101557.ts
+#EXTINF:-1 group-title="LATINO2",LA: CAPITAL TV (PERU)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99861.ts
+#EXTINF:-1 group-title="LATINO2",LA: CARACOL HD (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68557.ts
+#EXTINF:-1 group-title="LATINO2",LA: Carolina TV HD (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/103780.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cartelera Primiere
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101558.ts
+#EXTINF:-1 group-title="LATINO2",LA: Carton Network HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80188.ts
+#EXTINF:-1 group-title="LATINO2",LA: CARTOON NETWORK HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77789.ts
+#EXTINF:-1 group-title="LATINO2",LA: CB24
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78659.ts
+#EXTINF:-1 group-title="LATINO2",LA: CBN Espanol
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/64628.ts
+#EXTINF:-1 group-title="LATINO2",LA: CDF BASICO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68878.ts
+#EXTINF:-1 group-title="LATINO2",LA: CDF PREMIUM HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68484.ts
+#EXTINF:-1 group-title="LATINO2",LA: CDF PREMIUN (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99836.ts
+#EXTINF:-1 group-title="LATINO2",LA: CDN 37 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68494.ts
+#EXTINF:-1 group-title="LATINO2",LA: CDN RD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97653.ts
+#EXTINF:-1 group-title="LATINO2",LA: CDN SPORTMAX HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77809.ts
+#EXTINF:-1 group-title="LATINO2",LA: CDO BASICO HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68457.ts
+#EXTINF:-1 group-title="LATINO2",LA: CDO PREMIUM (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68822.ts
+#EXTINF:-1 group-title="LATINO2",LA: CHESPIRITO TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101564.ts
+#EXTINF:-1 group-title="LATINO2",LA: CHILEVISION (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99830.ts
+#EXTINF:-1 group-title="LATINO2",LA: CHV HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68474.ts
+#EXTINF:-1 group-title="LATINO2",LA: CINE DINAMITA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68687.ts
+#EXTINF:-1 group-title="LATINO2",LA: CINE LATINO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77855.ts
+#EXTINF:-1 group-title="LATINO2",LA: CINE SONY
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77756.ts
+#EXTINF:-1 group-title="LATINO2",LA: CINECANAL HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68389.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 01 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/84379.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 02 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/84380.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 03 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/84381.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 04 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/84382.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 05 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/84383.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 06 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/84384.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 08 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/84386.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 09 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/84387.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 10 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/84388.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 11 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/84389.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 12 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/84390.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 14 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99977.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 15 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/84393.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 16 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99978.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 17 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99979.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 18 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99980.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 19 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99981.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 20 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99982.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 21 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99983.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 23 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99985.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 24 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99986.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 25 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99987.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 26 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99988.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 27 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99989.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 28 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99990.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 30 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99992.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 31 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99993.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 32 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99994.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 33 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99995.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 34 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99996.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 35 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99997.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinema 36 PPV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99998.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinemax Action HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77737.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinemax East FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102006.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinemax East HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77736.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinemax FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101991.ts
+#EXTINF:-1 group-title="LATINO2",LA: Cinemax HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68426.ts
+#EXTINF:-1 group-title="LATINO2",LA: CIUDAD MAGAZINA ARG
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87945.ts
+#EXTINF:-1 group-title="LATINO2",LA: CIUDAD MAGAZINE (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99812.ts
+#EXTINF:-1 group-title="LATINO2",LA: CLARO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97560.ts
+#EXTINF:-1 group-title="LATINO2",LA: CLARO SPORT
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68685.ts
+#EXTINF:-1 group-title="LATINO2",LA: CLASSICA ES (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100920.ts
+#EXTINF:-1 group-title="LATINO2",LA: Classique TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68837.ts
+#EXTINF:-1 group-title="LATINO2",LA: CMB (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/89589.ts
+#EXTINF:-1 group-title="LATINO2",LA: CMD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77794.ts
+#EXTINF:-1 group-title="LATINO2",LA: CNN (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80139.ts
+#EXTINF:-1 group-title="LATINO2",LA: CNN EN ESPANOL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101301.ts
+#EXTINF:-1 group-title="LATINO2",LA: CNN ESPANOL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68544.ts
+#EXTINF:-1 group-title="LATINO2",LA: CNN Espanol (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68456.ts
+#EXTINF:-1 group-title="LATINO2",LA: CNN INT HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68405.ts
+#EXTINF:-1 group-title="LATINO2",LA: CNT SPORT FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77749.ts
+#EXTINF:-1 group-title="LATINO2",LA: CNT SPORT HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68584.ts
+#EXTINF:-1 group-title="LATINO2",LA: CNT SPORTS PPV 2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68608.ts
+#EXTINF:-1 group-title="LATINO2",LA: CO CITY TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78653.ts
+#EXTINF:-1 group-title="LATINO2",LA: CO COSMOVISION
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77515.ts
+#EXTINF:-1 group-title="LATINO2",LA: CO LIFEDESING
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97682.ts
+#EXTINF:-1 group-title="LATINO2",LA: CO TELEPACIFICO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78652.ts
+#EXTINF:-1 group-title="LATINO2",LA: CO VMAS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97689.ts
+#EXTINF:-1 group-title="LATINO2",LA: COLORVISION (RDOM)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99844.ts
+#EXTINF:-1 group-title="LATINO2",LA: Comedy Central HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68425.ts
+#EXTINF:-1 group-title="LATINO2",LA: CONCERT CHANEL HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77755.ts
+#EXTINF:-1 group-title="LATINO2",LA: CONCERT CHANNEL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97690.ts
+#EXTINF:-1 group-title="LATINO2",LA: DE PELICULA HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68415.ts
+#EXTINF:-1 group-title="LATINO2",LA: DEPORTV (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99814.ts
+#EXTINF:-1 group-title="LATINO2",LA: DHE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97691.ts
+#EXTINF:-1 group-title="LATINO2",LA: DIGITAL 15 HD RD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68499.ts
+#EXTINF:-1 group-title="LATINO2",LA: DIRECT TV (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99815.ts
+#EXTINF:-1 group-title="LATINO2",LA: Directv Sport
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68642.ts
+#EXTINF:-1 group-title="LATINO2",LA: Directv Sport 1
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68872.ts
+#EXTINF:-1 group-title="LATINO2",LA: Directv Sport 2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68644.ts
+#EXTINF:-1 group-title="LATINO2",LA: DISCOVERY CH HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68388.ts
+#EXTINF:-1 group-title="LATINO2",LA: DISCOVERY CHANNEL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68607.ts
+#EXTINF:-1 group-title="LATINO2",LA: DISCOVERY CIVILIZATION
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68660.ts
+#EXTINF:-1 group-title="LATINO2",LA: DISCOVERY FAMILIA HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68453.ts
+#EXTINF:-1 group-title="LATINO2",LA: DISCOVERY H&H
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68504.ts
+#EXTINF:-1 group-title="LATINO2",LA: DISCOVERY HOME & HEALTH
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/89711.ts
+#EXTINF:-1 group-title="LATINO2",LA: Discovery ID
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68502.ts
+#EXTINF:-1 group-title="LATINO2",LA: Discovery KIDS HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68606.ts
+#EXTINF:-1 group-title="LATINO2",LA: DISCOVERY SCIENCE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68541.ts
+#EXTINF:-1 group-title="LATINO2",LA: DISCOVERY THEATER HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68540.ts
+#EXTINF:-1 group-title="LATINO2",LA: Discovery TLC
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80180.ts
+#EXTINF:-1 group-title="LATINO2",LA: Discovery Turbo HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68503.ts
+#EXTINF:-1 group-title="LATINO2",LA: DISCOVERY WORLD HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68416.ts
+#EXTINF:-1 group-title="LATINO2",LA: Disney Channel HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68539.ts
+#EXTINF:-1 group-title="LATINO2",LA: Disney Junior
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68656.ts
+#EXTINF:-1 group-title="LATINO2",LA: Disney XD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68537.ts
+#EXTINF:-1 group-title="LATINO2",LA: DISTRITO COMEDIA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78684.ts
+#EXTINF:-1 group-title="LATINO2",LA: Donald Duck 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77818.ts
+#EXTINF:-1 group-title="LATINO2",LA: DORAEMON 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77840.ts
+#EXTINF:-1 group-title="LATINO2",LA: Dr. House
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102065.ts
+#EXTINF:-1 group-title="LATINO2",LA: DRAGON BALL 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77839.ts
+#EXTINF:-1 group-title="LATINO2",LA: DRAGON BALL GT 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77838.ts
+#EXTINF:-1 group-title="LATINO2",LA: DW1
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68579.ts
+#EXTINF:-1 group-title="LATINO2",LA: DX TV HD (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/86851.ts
+#EXTINF:-1 group-title="LATINO2",LA: E! Entertainment HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77917.ts
+#EXTINF:-1 group-title="LATINO2",LA: ECO (PANAMA)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99862.ts
+#EXTINF:-1 group-title="LATINO2",LA: ECO TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77866.ts
+#EXTINF:-1 group-title="LATINO2",LA: ECUADOR TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77885.ts
+#EXTINF:-1 group-title="LATINO2",LA: ECUAVISA HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77884.ts
+#EXTINF:-1 group-title="LATINO2",LA: El Chapul
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102063.ts
+#EXTINF:-1 group-title="LATINO2",LA: EL CHAPUL�N COLORADO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101568.ts
+#EXTINF:-1 group-title="LATINO2",LA: El Chavo del Ocho
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101559.ts
+#EXTINF:-1 group-title="LATINO2",LA: EL COYOTE Y EL CORRECAMINOS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101569.ts
+#EXTINF:-1 group-title="LATINO2",LA: EL COYOTE Y EL CORRECAMINOS 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77835.ts
+#EXTINF:-1 group-title="LATINO2",LA: El GOURMET
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68404.ts
+#EXTINF:-1 group-title="LATINO2",LA: EL NUEVE HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68378.ts
+#EXTINF:-1 group-title="LATINO2",LA: EL PAJARO LOCO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101570.ts
+#EXTINF:-1 group-title="LATINO2",LA: EL PAJARO LOCO 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77834.ts
+#EXTINF:-1 group-title="LATINO2",LA: EL PINGUINO HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68469.ts
+#EXTINF:-1 group-title="LATINO2",LA: EL PINGUINO TV (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99964.ts
+#EXTINF:-1 group-title="LATINO2",LA: EL PR�NCIPE DE BEL-AIR
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101571.ts
+#EXTINF:-1 group-title="LATINO2",LA: EL SHOW DE LA PEQUE�A LULU
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101572.ts
+#EXTINF:-1 group-title="LATINO2",LA: EL TRECE (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99802.ts
+#EXTINF:-1 group-title="LATINO2",LA: EL TRECE HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68377.ts
+#EXTINF:-1 group-title="LATINO2",LA: ELNUEVE (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99803.ts
+#EXTINF:-1 group-title="LATINO2",LA: ENCUENTRO (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99804.ts
+#EXTINF:-1 group-title="LATINO2",LA: ENCUENTRO ARG
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87954.ts
+#EXTINF:-1 group-title="LATINO2",LA: Enlace (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99965.ts
+#EXTINF:-1 group-title="LATINO2",LA: Enlace TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68574.ts
+#EXTINF:-1 group-title="LATINO2",LA: Esperanza TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68562.ts
+#EXTINF:-1 group-title="LATINO2",LA: ESPN 2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68403.ts
+#EXTINF:-1 group-title="LATINO2",LA: ESPN 2 MX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68770.ts
+#EXTINF:-1 group-title="LATINO2",LA: ESPN 3
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68402.ts
+#EXTINF:-1 group-title="LATINO2",LA: ESPN 3 MX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68769.ts
+#EXTINF:-1 group-title="LATINO2",LA: ESPN ARGENTINA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97678.ts
+#EXTINF:-1 group-title="LATINO2",LA: ESPN DEPORTES/Network HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97652.ts
+#EXTINF:-1 group-title="LATINO2",LA: ESPN HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68401.ts
+#EXTINF:-1 group-title="LATINO2",LA: ESPN MX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68767.ts
+#EXTINF:-1 group-title="LATINO2",LA: ESPN PLUS HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68470.ts
+#EXTINF:-1 group-title="LATINO2",LA: ETC TV ECUADOR
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77795.ts
+#EXTINF:-1 group-title="LATINO2",LA: EUROCHANNEL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68893.ts
+#EXTINF:-1 group-title="LATINO2",LA: EUROPA EUROPA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68766.ts
+#EXTINF:-1 group-title="LATINO2",LA: EWTN
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78661.ts
+#EXTINF:-1 group-title="LATINO2",LA: EXATV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97567.ts
+#EXTINF:-1 group-title="LATINO2",LA: F1 Formula1
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77788.ts
+#EXTINF:-1 group-title="LATINO2",LA: Family Guy HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101560.ts
+#EXTINF:-1 group-title="LATINO2",LA: FIGHT BOX HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77775.ts
+#EXTINF:-1 group-title="LATINO2",LA: FILM ZONE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68570.ts
+#EXTINF:-1 group-title="LATINO2",LA: FILM&ARTS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68765.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOOD NETWORK HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68414.ts
+#EXTINF:-1 group-title="LATINO2",LA: FORO TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77740.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOROtv MX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80146.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX ACCTION
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68472.ts
+#EXTINF:-1 group-title="LATINO2",LA: Fox Action HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77923.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX CHILE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97663.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX CINEMA HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68536.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX Classics
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68653.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX COMEDY HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68534.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX DEPORTES HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68451.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX FAMILY HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68461.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77785.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX LIFE HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68533.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX MOVIES HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68366.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX NEWS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68586.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX PERU
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97664.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX SERIES
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68435.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX SPORT 3 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77783.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX SPORT SUR
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77829.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX SPORT VEN
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77800.ts
+#EXTINF:-1 group-title="LATINO2",LA: Fox Sports
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77782.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX SPORTS (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68751.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX SPORTS 1 HD (ARGENTINA)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68431.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX Sports 2 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77560.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX SPORTS 2 HD (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68430.ts
+#EXTINF:-1 group-title="LATINO2",LA: Fox Sports 2 HD (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77511.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX SPORTS 2 MX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68764.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX SPORTS 3 MX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68763.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX SPORTS CHILE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68902.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX SPORTS COLOMBIA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68744.ts
+#EXTINF:-1 group-title="LATINO2",LA: FOX SPORTS PREMIUM HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68376.ts
+#EXTINF:-1 group-title="LATINO2",LA: FX HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68505.ts
+#EXTINF:-1 group-title="LATINO2",LA: FX LATAM
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97661.ts
+#EXTINF:-1 group-title="LATINO2",LA: FX MOVIE HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68501.ts
+#EXTINF:-1 group-title="LATINO2",LA: GALA TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99781.ts
+#EXTINF:-1 group-title="LATINO2",LA: GALAVISION
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68444.ts
+#EXTINF:-1 group-title="LATINO2",LA: GAMATV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77883.ts
+#EXTINF:-1 group-title="LATINO2",LA: GAME OF THRONES
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101574.ts
+#EXTINF:-1 group-title="LATINO2",LA: GARAGE TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68706.ts
+#EXTINF:-1 group-title="LATINO2",LA: GARFIELD Y SUS AMIGOS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101575.ts
+#EXTINF:-1 group-title="LATINO2",LA: GLITZ HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68532.ts
+#EXTINF:-1 group-title="LATINO2",LA: Globovisi�n
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/71039.ts
+#EXTINF:-1 group-title="LATINO2",LA: Gol TV HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68443.ts
+#EXTINF:-1 group-title="LATINO2",LA: Gol TV PERU
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68875.ts
+#EXTINF:-1 group-title="LATINO2",LA: Golden Edge
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68688.ts
+#EXTINF:-1 group-title="LATINO2",LA: GOLDEN HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68601.ts
+#EXTINF:-1 group-title="LATINO2",LA: GOLDEN PREMIER 2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77774.ts
+#EXTINF:-1 group-title="LATINO2",LA: GOLDEN PREMIER HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68600.ts
+#EXTINF:-1 group-title="LATINO2",LA: GOLF CHANNEL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68890.ts
+#EXTINF:-1 group-title="LATINO2",LA: GOLPERU HD (Peru)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100916.ts
+#EXTINF:-1 group-title="LATINO2",LA: H2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68531.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77791.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO 1
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68412.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO 2 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68442.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO CHILE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68901.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO East FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102018.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO East HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77734.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO Family FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101989.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO Family HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68582.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO LAM (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99966.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO Plus FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101986.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO Plus HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68441.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO Plus West HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77731.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO SIGNATURE FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101982.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO SIGNATURE HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68440.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO West FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101985.ts
+#EXTINF:-1 group-title="LATINO2",LA: HBO West HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77729.ts
+#EXTINF:-1 group-title="LATINO2",LA: HEY ARNOLD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101576.ts
+#EXTINF:-1 group-title="LATINO2",LA: HISTORY CH
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68618.ts
+#EXTINF:-1 group-title="LATINO2",LA: HISTORY HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68427.ts
+#EXTINF:-1 group-title="LATINO2",LA: HOLA TV HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68558.ts
+#EXTINF:-1 group-title="LATINO2",LA: HTV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68530.ts
+#EXTINF:-1 group-title="LATINO2",LA: I-SAT
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68529.ts
+#EXTINF:-1 group-title="LATINO2",LA: IndiePlex FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102004.ts
+#EXTINF:-1 group-title="LATINO2",LA: INSPECTOR GADGET
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101577.ts
+#EXTINF:-1 group-title="LATINO2",LA: INTI
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68742.ts
+#EXTINF:-1 group-title="LATINO2",LA: Investigation Discovery
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/89727.ts
+#EXTINF:-1 group-title="LATINO2",LA: KING OF THE HILL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101578.ts
+#EXTINF:-1 group-title="LATINO2",LA: KOMBAT SPORT
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68476.ts
+#EXTINF:-1 group-title="LATINO2",LA: La Ley del Corazon 24/7 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102013.ts
+#EXTINF:-1 group-title="LATINO2",LA: La Ley del Corazon HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101561.ts
+#EXTINF:-1 group-title="LATINO2",LA: La Mega Mundial LAM
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80157.ts
+#EXTINF:-1 group-title="LATINO2",LA: LA PANTERA ROSA TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101579.ts
+#EXTINF:-1 group-title="LATINO2",LA: LA RED (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99834.ts
+#EXTINF:-1 group-title="LATINO2",LA: LA RED HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68479.ts
+#EXTINF:-1 group-title="LATINO2",LA: LA VOZ DE MARIA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68705.ts
+#EXTINF:-1 group-title="LATINO2",LA: Las Estrellas MEX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68677.ts
+#EXTINF:-1 group-title="LATINO2",LA: LATINA (Peru)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77878.ts
+#EXTINF:-1 group-title="LATINO2",LA: LIFETIME HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68571.ts
+#EXTINF:-1 group-title="LATINO2",LA: LN+ (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99806.ts
+#EXTINF:-1 group-title="LATINO2",LA: Locomotion TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80161.ts
+#EXTINF:-1 group-title="LATINO2",LA: Logos Bolivia
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/94274.ts
+#EXTINF:-1 group-title="LATINO2",LA: LOONEY TUNES 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77827.ts
+#EXTINF:-1 group-title="LATINO2",LA: LOS 3 CHIFLADOS 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77826.ts
+#EXTINF:-1 group-title="LATINO2",LA: LOS PICAPIEDRA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101581.ts
+#EXTINF:-1 group-title="LATINO2",LA: LOS SIMPSONS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101582.ts
+#EXTINF:-1 group-title="LATINO2",LA: LOS SUPERS�NICOS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101583.ts
+#EXTINF:-1 group-title="LATINO2",LA: LOS TRES CHIFLADOS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101584.ts
+#EXTINF:-1 group-title="LATINO2",LA: MacGyver
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101562.ts
+#EXTINF:-1 group-title="LATINO2",LA: MASCHIC HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68528.ts
+#EXTINF:-1 group-title="LATINO2",LA: MAX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68741.ts
+#EXTINF:-1 group-title="LATINO2",LA: MAX PRIME
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68510.ts
+#EXTINF:-1 group-title="LATINO2",LA: MAX PRIME ESTE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68665.ts
+#EXTINF:-1 group-title="LATINO2",LA: MEGA (Chile) HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77780.ts
+#EXTINF:-1 group-title="LATINO2",LA: Mega HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77533.ts
+#EXTINF:-1 group-title="LATINO2",LA: Melody TV HD (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77509.ts
+#EXTINF:-1 group-title="LATINO2",LA: MEX Azteca 13
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78655.ts
+#EXTINF:-1 group-title="LATINO2",LA: MEX AZTECA CINEMA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78656.ts
+#EXTINF:-1 group-title="LATINO2",LA: MEXIQUICE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101312.ts
+#EXTINF:-1 group-title="LATINO2",LA: Milenio TV HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77738.ts
+#EXTINF:-1 group-title="LATINO2",LA: MLB NETWORK
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68492.ts
+#EXTINF:-1 group-title="LATINO2",LA: Monterrico TV (PERU)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99858.ts
+#EXTINF:-1 group-title="LATINO2",LA: MovieMax FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102010.ts
+#EXTINF:-1 group-title="LATINO2",LA: MovieMax HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77726.ts
+#EXTINF:-1 group-title="LATINO2",LA: MoviePlex FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102003.ts
+#EXTINF:-1 group-title="LATINO2",LA: MoviePlex HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77725.ts
+#EXTINF:-1 group-title="LATINO2",LA: MOVISTAR DEPORTES
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68740.ts
+#EXTINF:-1 group-title="LATINO2",LA: MOVISTAR PLUS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68739.ts
+#EXTINF:-1 group-title="LATINO2",LA: Mr. Bean HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102066.ts
+#EXTINF:-1 group-title="LATINO2",LA: MTV HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68684.ts
+#EXTINF:-1 group-title="LATINO2",LA: MTV Hits HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77787.ts
+#EXTINF:-1 group-title="LATINO2",LA: MULTIMEDIOS HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68498.ts
+#EXTINF:-1 group-title="LATINO2",LA: Multimedios Monterrey HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80169.ts
+#EXTINF:-1 group-title="LATINO2",LA: MULTIPREMIER
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68683.ts
+#EXTINF:-1 group-title="LATINO2",LA: Music Top HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77759.ts
+#EXTINF:-1 group-title="LATINO2",LA: MX AZTECA MUNDO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78683.ts
+#EXTINF:-1 group-title="LATINO2",LA: NARUTO 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77825.ts
+#EXTINF:-1 group-title="LATINO2",LA: NAT GEO CHILE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97666.ts
+#EXTINF:-1 group-title="LATINO2",LA: NAT GEO HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68398.ts
+#EXTINF:-1 group-title="LATINO2",LA: NAT GEO KIDS HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68525.ts
+#EXTINF:-1 group-title="LATINO2",LA: NAT GEO MUNDO HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68439.ts
+#EXTINF:-1 group-title="LATINO2",LA: NAT GEO WILD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68397.ts
+#EXTINF:-1 group-title="LATINO2",LA: NBA TV HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68396.ts
+#EXTINF:-1 group-title="LATINO2",LA: NBC UNIVERSO HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68438.ts
+#EXTINF:-1 group-title="LATINO2",LA: NEOX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80158.ts
+#EXTINF:-1 group-title="LATINO2",LA: NEX TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77804.ts
+#EXTINF:-1 group-title="LATINO2",LA: NIC Canal 6
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97697.ts
+#EXTINF:-1 group-title="LATINO2",LA: NIC Canal 12
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97695.ts
+#EXTINF:-1 group-title="LATINO2",LA: NIC CANAL 13
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97696.ts
+#EXTINF:-1 group-title="LATINO2",LA: NICK 2 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68590.ts
+#EXTINF:-1 group-title="LATINO2",LA: Nick Junior HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68394.ts
+#EXTINF:-1 group-title="LATINO2",LA: Nickelodeon HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68568.ts
+#EXTINF:-1 group-title="LATINO2",LA: NICKTOONS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78657.ts
+#EXTINF:-1 group-title="LATINO2",LA: NIU HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/94275.ts
+#EXTINF:-1 group-title="LATINO2",LA: NIU HD (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99967.ts
+#EXTINF:-1 group-title="LATINO2",LA: NIU Tv Santiago
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/94276.ts
+#EXTINF:-1 group-title="LATINO2",LA: NIUMEDIA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68704.ts
+#EXTINF:-1 group-title="LATINO2",LA: NOVA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80149.ts
+#EXTINF:-1 group-title="LATINO2",LA: NTN 24 HORAS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68738.ts
+#EXTINF:-1 group-title="LATINO2",LA: NTN 24 Horas (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100928.ts
+#EXTINF:-1 group-title="LATINO2",LA: NTN24
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80155.ts
+#EXTINF:-1 group-title="LATINO2",LA: NUESTRA TELE (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100917.ts
+#EXTINF:-1 group-title="LATINO2",LA: ONCE TV MX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68869.ts
+#EXTINF:-1 group-title="LATINO2",LA: ORBE 21
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68888.ts
+#EXTINF:-1 group-title="LATINO2",LA: OROMAR TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68737.ts
+#EXTINF:-1 group-title="LATINO2",LA: PAKAPAKA (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99813.ts
+#EXTINF:-1 group-title="LATINO2",LA: PAN 2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77861.ts
+#EXTINF:-1 group-title="LATINO2",LA: PAN 4
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77860.ts
+#EXTINF:-1 group-title="LATINO2",LA: PAN 13
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77862.ts
+#EXTINF:-1 group-title="LATINO2",LA: PAN MAS TV 23
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77798.ts
+#EXTINF:-1 group-title="LATINO2",LA: PAN TV MAX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77803.ts
+#EXTINF:-1 group-title="LATINO2",LA: PAN TVN
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68870.ts
+#EXTINF:-1 group-title="LATINO2",LA: PANAMERICANA (Peru)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77877.ts
+#EXTINF:-1 group-title="LATINO2",LA: PARAMOUNT
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68620.ts
+#EXTINF:-1 group-title="LATINO2",LA: PARAMOUNT CHANNEL HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68393.ts
+#EXTINF:-1 group-title="LATINO2",LA: PASIONES HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68523.ts
+#EXTINF:-1 group-title="LATINO2",LA: PAT Santa Cruz (Bolivia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80145.ts
+#EXTINF:-1 group-title="LATINO2",LA: Patoaventuras HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102062.ts
+#EXTINF:-1 group-title="LATINO2",LA: PE IPE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68867.ts
+#EXTINF:-1 group-title="LATINO2",LA: PE PANAMERICANA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97671.ts
+#EXTINF:-1 group-title="LATINO2",LA: PE PERU MAGICO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97672.ts
+#EXTINF:-1 group-title="LATINO2",LA: Peliculas 24/7 FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101980.ts
+#EXTINF:-1 group-title="LATINO2",LA: PERU MAGICO (Peru)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77876.ts
+#EXTINF:-1 group-title="LATINO2",LA: Pink Panther 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77817.ts
+#EXTINF:-1 group-title="LATINO2",LA: PLUS TV (Peru)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77875.ts
+#EXTINF:-1 group-title="LATINO2",LA: Pocoyo
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101563.ts
+#EXTINF:-1 group-title="LATINO2",LA: Pocoyo 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102012.ts
+#EXTINF:-1 group-title="LATINO2",LA: POKEMON 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77823.ts
+#EXTINF:-1 group-title="LATINO2",LA: POK�MON
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101585.ts
+#EXTINF:-1 group-title="LATINO2",LA: PROMAR (VENEZUELA)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99847.ts
+#EXTINF:-1 group-title="LATINO2",LA: PROYECTO 40
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97585.ts
+#EXTINF:-1 group-title="LATINO2",LA: Ranma
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102064.ts
+#EXTINF:-1 group-title="LATINO2",LA: RANMA 1/2 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77822.ts
+#EXTINF:-1 group-title="LATINO2",LA: RCN (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68521.ts
+#EXTINF:-1 group-title="LATINO2",LA: RCN Novelas (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77773.ts
+#EXTINF:-1 group-title="LATINO2",LA: RD Antena Latina
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97705.ts
+#EXTINF:-1 group-title="LATINO2",LA: RD CDN2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97698.ts
+#EXTINF:-1 group-title="LATINO2",LA: RD Color Vision 9
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97699.ts
+#EXTINF:-1 group-title="LATINO2",LA: RD Digital 15
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97700.ts
+#EXTINF:-1 group-title="LATINO2",LA: RD Tele Antillas
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97706.ts
+#EXTINF:-1 group-title="LATINO2",LA: RD Telecentro
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97701.ts
+#EXTINF:-1 group-title="LATINO2",LA: RD TeleMicro
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97707.ts
+#EXTINF:-1 group-title="LATINO2",LA: RD Telesistema
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97702.ts
+#EXTINF:-1 group-title="LATINO2",LA: RD Teleunion
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97703.ts
+#EXTINF:-1 group-title="LATINO2",LA: RD Teleuniverso
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97704.ts
+#EXTINF:-1 group-title="LATINO2",LA: REC TV (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68898.ts
+#EXTINF:-1 group-title="LATINO2",LA: Rede Meio Norte
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68836.ts
+#EXTINF:-1 group-title="LATINO2",LA: REDE S?CULO 21
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68835.ts
+#EXTINF:-1 group-title="LATINO2",LA: Repretel 4
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77853.ts
+#EXTINF:-1 group-title="LATINO2",LA: Repretel 6
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77852.ts
+#EXTINF:-1 group-title="LATINO2",LA: Repretel 11
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77854.ts
+#EXTINF:-1 group-title="LATINO2",LA: RetroPlex FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102005.ts
+#EXTINF:-1 group-title="LATINO2",LA: RetroPlex HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77723.ts
+#EXTINF:-1 group-title="LATINO2",LA: RITMOZON LATINO HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68365.ts
+#EXTINF:-1 group-title="LATINO2",LA: RPC (PANAMA)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99863.ts
+#EXTINF:-1 group-title="LATINO2",LA: RTS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68728.ts
+#EXTINF:-1 group-title="LATINO2",LA: RTS ECUADOR
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77742.ts
+#EXTINF:-1 group-title="LATINO2",LA: SAL Canal 19
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78679.ts
+#EXTINF:-1 group-title="LATINO2",LA: SAL Canal 21
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78678.ts
+#EXTINF:-1 group-title="LATINO2",LA: SAL VTV Canal 35
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78680.ts
+#EXTINF:-1 group-title="LATINO2",LA: SBT
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68842.ts
+#EXTINF:-1 group-title="LATINO2",LA: SCOOBY DOO 24/7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77821.ts
+#EXTINF:-1 group-title="LATINO2",LA: SCOOBY-DOO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101586.ts
+#EXTINF:-1 group-title="LATINO2",LA: SEMBRADOR
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68877.ts
+#EXTINF:-1 group-title="LATINO2",LA: SENAL COLOMBIA (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99821.ts
+#EXTINF:-1 group-title="LATINO2",LA: SextaVisi?n TV (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99970.ts
+#EXTINF:-1 group-title="LATINO2",LA: Showtime Beyond FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101990.ts
+#EXTINF:-1 group-title="LATINO2",LA: Showtime Beyond HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77722.ts
+#EXTINF:-1 group-title="LATINO2",LA: Showtime East HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77721.ts
+#EXTINF:-1 group-title="LATINO2",LA: SHOWTIME FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101984.ts
+#EXTINF:-1 group-title="LATINO2",LA: Showtime HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77719.ts
+#EXTINF:-1 group-title="LATINO2",LA: Showtime West HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77718.ts
+#EXTINF:-1 group-title="LATINO2",LA: SONY HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68481.ts
+#EXTINF:-1 group-title="LATINO2",LA: SPACE HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68383.ts
+#EXTINF:-1 group-title="LATINO2",LA: SPEED RACER (METEORO)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101587.ts
+#EXTINF:-1 group-title="LATINO2",LA: SPORT TV CONO SUR 1
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68449.ts
+#EXTINF:-1 group-title="LATINO2",LA: SPORT TV CONO SUR 2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68448.ts
+#EXTINF:-1 group-title="LATINO2",LA: SPORT TV CONO SUR 3
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68447.ts
+#EXTINF:-1 group-title="LATINO2",LA: SPORT TV CONO SUR 4 SD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68446.ts
+#EXTINF:-1 group-title="LATINO2",LA: SPORT TV CONO SUR 5 SD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68445.ts
+#EXTINF:-1 group-title="LATINO2",LA: SPORT TV CONO SUR TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68450.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Black FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101992.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Black HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77717.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Cinema FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101995.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Comedy FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101996.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Comedy HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77714.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz East FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101987.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz East HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77713.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Edge FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101994.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Edge HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77712.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Encore Action FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101999.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Encore Black FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102000.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Encore Black HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77710.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Encore Classic FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102016.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Encore Classic HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77709.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Encore Family FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102001.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Encore Family HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77708.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Encore FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101998.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Encore HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77706.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Encore Suspense FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102002.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Encore Suspense HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77705.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Encore Western FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102017.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Family HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77703.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101993.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77702.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Kids & Family FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101997.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz Kids & Family HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77701.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz West FHD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101988.ts
+#EXTINF:-1 group-title="LATINO2",LA: Starz West HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77700.ts
+#EXTINF:-1 group-title="LATINO2",LA: STUDIO UNIVERSAL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68520.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUN Channel
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68577.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUNDANCE CHANNEL HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68392.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR 24 Horas
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97708.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR America TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97709.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR ATV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97710.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR AXN
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97711.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Bang TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97712.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR C9N
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97713.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Canal 13
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97714.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Canal Claro
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97715.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Canal J
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97716.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Canal Uno
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97717.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Capital TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97719.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Cartoon Network
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97720.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR CDF PREMIUM
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97721.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR CHV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97722.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Cinecanal
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97723.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Cinema Dinamita
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97724.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Cinemax
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97725.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Ciudadano TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97726.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Claro Cinema
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97727.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Claromusic
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97728.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR ClaroSports
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97729.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Discovery Kids
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97733.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Discovery Turbo
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97734.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Disney Junior
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97735.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Disney XD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97736.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Ecuador TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97737.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Ecuavisa
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97738.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Enlace
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97739.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR EsneTV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97740.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR ESPN 2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87988.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR ESPN 3
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87989.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Fox Channel
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87990.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Fox Life
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87991.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR FOX P ACTION
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87992.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR FOX P MOVIES
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87993.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR FOX P SERIES E
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87994.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Fox Sport PY
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87995.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Fox Sports Premium
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87996.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Frecuencia Latina
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87997.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR FX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87998.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR FX Movies
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87999.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR GamaTV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88000.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR HBO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88001.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR HBO 2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88002.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR HBO Family
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88003.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR HBO Plus
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88004.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR History Channel
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97741.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Home and Health
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88006.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR I-Sat
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97742.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR La Red
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97743.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR La Tele
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97744.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Max Prime
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97745.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Mega
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97746.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Nat Geo
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88013.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Nick Junior
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88015.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Nickelodeon
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88016.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Panamericana TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88017.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Paraguay TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88018.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Paravision
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88019.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Red Guarani
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88020.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR RPC
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88021.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR RTS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88022.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR SNT
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88023.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Sony
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88024.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Space
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88025.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Sur TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88026.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR TBS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88027.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR TC Television
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88028.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR TCM
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88029.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Teleamazonas
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88030.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Telecaribe
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88032.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Telefe
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88033.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Telefuturo
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88034.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Telepacifico
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88035.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR TNT
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88036.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR TVE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88037.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR TVN
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88038.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Unicanal
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88039.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Universal
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88040.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Win Sport
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88041.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Zona Latina
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88042.ts
+#EXTINF:-1 group-title="LATINO2",LA: SUR Zoom
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88043.ts
+#EXTINF:-1 group-title="LATINO2",LA: SYFY HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68508.ts
+#EXTINF:-1 group-title="LATINO2",LA: T9 (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99822.ts
+#EXTINF:-1 group-title="LATINO2",LA: TBS HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68507.ts
+#EXTINF:-1 group-title="LATINO2",LA: TBS VERYFUNNY
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68633.ts
+#EXTINF:-1 group-title="LATINO2",LA: TC ECUADOR
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/87940.ts
+#EXTINF:-1 group-title="LATINO2",LA: TC TELEVISION
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68726.ts
+#EXTINF:-1 group-title="LATINO2",LA: TCM
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68519.ts
+#EXTINF:-1 group-title="LATINO2",LA: TDN DEPORTES HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68409.ts
+#EXTINF:-1 group-title="LATINO2",LA: Tele ANTIOQUIA (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77503.ts
+#EXTINF:-1 group-title="LATINO2",LA: Tele Cafe (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/89595.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELE FUTURO (RDOM)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99845.ts
+#EXTINF:-1 group-title="LATINO2",LA: Tele Max HD (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77502.ts
+#EXTINF:-1 group-title="LATINO2",LA: Tele Medellin (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77501.ts
+#EXTINF:-1 group-title="LATINO2",LA: Tele Ritmo HD (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77500.ts
+#EXTINF:-1 group-title="LATINO2",LA: Tele Uno HD (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77499.ts
+#EXTINF:-1 group-title="LATINO2",LA: Tele Vida (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97683.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELEAMAZONAS HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68725.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELECADENA 7/4 HONDURAS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77763.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELEFE (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99801.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELEFE HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68589.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELEHIT HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68391.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELEMAX ARG
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68466.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELEMAX HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68477.ts
+#EXTINF:-1 group-title="LATINO2",LA: Telemicro Canal 5
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80166.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELEMUNDO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68518.ts
+#EXTINF:-1 group-title="LATINO2",LA: Telemundo 47 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102061.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELEMUNDO LOS ANGELES HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68482.ts
+#EXTINF:-1 group-title="LATINO2",LA: Telemundo Puerto Rico HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80168.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELENOVELAS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68692.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELERED
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68758.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELERITMO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97589.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELESISTEMA (RDOM)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99846.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELESUR (VENEZUELA)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99848.ts
+#EXTINF:-1 group-title="LATINO2",LA: Teletica 7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77888.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELETRAK
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77865.ts
+#EXTINF:-1 group-title="LATINO2",LA: Teletrak (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99839.ts
+#EXTINF:-1 group-title="LATINO2",LA: TELEVEN
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68887.ts
+#EXTINF:-1 group-title="LATINO2",LA: THE BIG BANG THEORY
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101588.ts
+#EXTINF:-1 group-title="LATINO2",LA: THUNDERCATS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101589.ts
+#EXTINF:-1 group-title="LATINO2",LA: TLC
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68517.ts
+#EXTINF:-1 group-title="LATINO2",LA: TLT (VENEZUELA)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99852.ts
+#EXTINF:-1 group-title="LATINO2",LA: TLX HD ARG
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68465.ts
+#EXTINF:-1 group-title="LATINO2",LA: TM (PANAMA)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99864.ts
+#EXTINF:-1 group-title="LATINO2",LA: TN (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99807.ts
+#EXTINF:-1 group-title="LATINO2",LA: TNP (Peru)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77874.ts
+#EXTINF:-1 group-title="LATINO2",LA: TNT
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68390.ts
+#EXTINF:-1 group-title="LATINO2",LA: TNT SERIES HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68382.ts
+#EXTINF:-1 group-title="LATINO2",LA: TNT SPORT HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97650.ts
+#EXTINF:-1 group-title="LATINO2",LA: TODO DEPORTE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77858.ts
+#EXTINF:-1 group-title="LATINO2",LA: TODO DEPORTES HONDURAS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77937.ts
+#EXTINF:-1 group-title="LATINO2",LA: TOM AND JERRY
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101590.ts
+#EXTINF:-1 group-title="LATINO2",LA: TOONCAST
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68515.ts
+#EXTINF:-1 group-title="LATINO2",LA: TOP LATINO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97592.ts
+#EXTINF:-1 group-title="LATINO2",LA: Travel and Living Channel
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78681.ts
+#EXTINF:-1 group-title="LATINO2",LA: TRAVEL HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68460.ts
+#EXTINF:-1 group-title="LATINO2",LA: Tru TV HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68621.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV 5 Linares (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99971.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV All Sports
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/94277.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV Assembleia SP
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68834.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV Faap
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68831.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV Geral
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68829.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV MARTI (Cuba)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99841.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV MAS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68575.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV MAS VERACRUZ
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68757.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV MAX PANAMA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68488.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV PUBLICA (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99799.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV PUBLICA HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97602.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV Red (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99972.ts
+#EXTINF:-1 group-title="LATINO2",LA: TV UNAM
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68756.ts
+#EXTINF:-1 group-title="LATINO2",LA: TVES (VENEZUELA)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99849.ts
+#EXTINF:-1 group-title="LATINO2",LA: TVN (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68370.ts
+#EXTINF:-1 group-title="LATINO2",LA: TVN (PANAMA)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99865.ts
+#EXTINF:-1 group-title="LATINO2",LA: TVN Brasil
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68828.ts
+#EXTINF:-1 group-title="LATINO2",LA: TVO (VENEZUELA)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99851.ts
+#EXTINF:-1 group-title="LATINO2",LA: TYC (Argentina)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99818.ts
+#EXTINF:-1 group-title="LATINO2",LA: TyC Sports HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77765.ts
+#EXTINF:-1 group-title="LATINO2",LA: UCV (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68883.ts
+#EXTINF:-1 group-title="LATINO2",LA: UNICABLE HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68462.ts
+#EXTINF:-1 group-title="LATINO2",LA: Unicanal
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68696.ts
+#EXTINF:-1 group-title="LATINO2",LA: UNIMAS HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68459.ts
+#EXTINF:-1 group-title="LATINO2",LA: UNIVERSAL CHANNEL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68506.ts
+#EXTINF:-1 group-title="LATINO2",LA: Universal HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77897.ts
+#EXTINF:-1 group-title="LATINO2",LA: UNIVISION DEPORTE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68463.ts
+#EXTINF:-1 group-title="LATINO2",LA: Univision HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68436.ts
+#EXTINF:-1 group-title="LATINO2",LA: UNIVISION MIAMI
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77762.ts
+#EXTINF:-1 group-title="LATINO2",LA: UNIVISION NETWORK
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68689.ts
+#EXTINF:-1 group-title="LATINO2",LA: Univision Puerto Rico HD L
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80164.ts
+#EXTINF:-1 group-title="LATINO2",LA: UNIVISION TDN HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77811.ts
+#EXTINF:-1 group-title="LATINO2",LA: UNO HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68695.ts
+#EXTINF:-1 group-title="LATINO2",LA: VALLE TELEVISION HD (Chile)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99973.ts
+#EXTINF:-1 group-title="LATINO2",LA: VENEVISION
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68886.ts
+#EXTINF:-1 group-title="LATINO2",LA: VENEVISION PLUS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68721.ts
+#EXTINF:-1 group-title="LATINO2",LA: VENEZOLANA (VENEZUELA)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99853.ts
+#EXTINF:-1 group-title="LATINO2",LA: VH1 CLASSICS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68823.ts
+#EXTINF:-1 group-title="LATINO2",LA: VH1 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68513.ts
+#EXTINF:-1 group-title="LATINO2",LA: VH1 MEGAHITS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97679.ts
+#EXTINF:-1 group-title="LATINO2",LA: Via X
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/78682.ts
+#EXTINF:-1 group-title="LATINO2",LA: VPI Venezolano
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68566.ts
+#EXTINF:-1 group-title="LATINO2",LA: VTV Chile
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/64622.ts
+#EXTINF:-1 group-title="LATINO2",LA: VTV HD (URUGUAY)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/99855.ts
+#EXTINF:-1 group-title="LATINO2",LA: VTV Valle
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/80148.ts
+#EXTINF:-1 group-title="LATINO2",LA: WAPA 2 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68458.ts
+#EXTINF:-1 group-title="LATINO2",LA: Warner Bros HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68428.ts
+#EXTINF:-1 group-title="LATINO2",LA: Warner Bros HD (Colombia)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68911.ts
+#EXTINF:-1 group-title="LATINO2",LA: WIN SPORT HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68368.ts
+#EXTINF:-1 group-title="LATINO2",LA: WOBI (Mexico)
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101314.ts
+#EXTINF:-1 group-title="LATINO2",LA: WOBI HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68720.ts
+#EXTINF:-1 group-title="LATINO2",LA: WOW TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68693.ts
+#EXTINF:-1 group-title="LATINO2",LA: X-MEN
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/101591.ts
+#EXTINF:-1 group-title="LATINO2",LA:Clro Sports HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/77699.ts
+#EXTINF:-1 group-title="LATINO2",BR: A&E HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66066.ts
+#EXTINF:-1 group-title="LATINO2",BR: Agro Brasil
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/97748.ts
+#EXTINF:-1 group-title="LATINO2",BR: All Sports
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66050.ts
+#EXTINF:-1 group-title="LATINO2",BR: ALMADA TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/103000.ts
+#EXTINF:-1 group-title="LATINO2",BR: AMC HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100805.ts
+#EXTINF:-1 group-title="LATINO2",BR: Animal Planet HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68999.ts
+#EXTINF:-1 group-title="LATINO2",BR: Aparceida
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66067.ts
+#EXTINF:-1 group-title="LATINO2",BR: Arte
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95819.ts
+#EXTINF:-1 group-title="LATINO2",BR: AXN HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68998.ts
+#EXTINF:-1 group-title="LATINO2",BR: Azteca 13 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66068.ts
+#EXTINF:-1 group-title="LATINO2",BR: Baby TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68910.ts
+#EXTINF:-1 group-title="LATINO2",BR: BAND ESPORTES
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68997.ts
+#EXTINF:-1 group-title="LATINO2",BR: Band HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88083.ts
+#EXTINF:-1 group-title="LATINO2",BR: Band News HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68996.ts
+#EXTINF:-1 group-title="LATINO2",BR: Band Sports
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88085.ts
+#EXTINF:-1 group-title="LATINO2",BR: BANDEIRANTES
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68995.ts
+#EXTINF:-1 group-title="LATINO2",BR: Bis
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95823.ts
+#EXTINF:-1 group-title="LATINO2",BR: Boomerang
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66065.ts
+#EXTINF:-1 group-title="LATINO2",BR: Brazil 2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66069.ts
+#EXTINF:-1 group-title="LATINO2",BR: Canal BIS HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88097.ts
+#EXTINF:-1 group-title="LATINO2",BR: CANAL DO BOI TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/93196.ts
+#EXTINF:-1 group-title="LATINO2",BR: Canal Escola
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95824.ts
+#EXTINF:-1 group-title="LATINO2",BR: Canal Off HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88107.ts
+#EXTINF:-1 group-title="LATINO2",BR: CANAL SETE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/93195.ts
+#EXTINF:-1 group-title="LATINO2",BR: CANAL SONY
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68993.ts
+#EXTINF:-1 group-title="LATINO2",BR: CANCAO NOVA HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102993.ts
+#EXTINF:-1 group-title="LATINO2",BR: CAPELINHA FATIMA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102984.ts
+#EXTINF:-1 group-title="LATINO2",BR: CARIRI TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/93194.ts
+#EXTINF:-1 group-title="LATINO2",BR: Cartoon Network HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66064.ts
+#EXTINF:-1 group-title="LATINO2",BR: Cinemax HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68991.ts
+#EXTINF:-1 group-title="LATINO2",BR: Combate HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68990.ts
+#EXTINF:-1 group-title="LATINO2",BR: COMEDY CENTRAL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68989.ts
+#EXTINF:-1 group-title="LATINO2",BR: Conexao
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95825.ts
+#EXTINF:-1 group-title="LATINO2",BR: CULTURA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68849.ts
+#EXTINF:-1 group-title="LATINO2",BR: Discovery
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95826.ts
+#EXTINF:-1 group-title="LATINO2",BR: Discovery Channel HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66061.ts
+#EXTINF:-1 group-title="LATINO2",BR: Discovery Civilization
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66062.ts
+#EXTINF:-1 group-title="LATINO2",BR: Discovery Home & Health
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68986.ts
+#EXTINF:-1 group-title="LATINO2",BR: Discovery ID
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68985.ts
+#EXTINF:-1 group-title="LATINO2",BR: Discovery Kids HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68984.ts
+#EXTINF:-1 group-title="LATINO2",BR: Discovery Theater
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88099.ts
+#EXTINF:-1 group-title="LATINO2",BR: Discovery Turbo HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66060.ts
+#EXTINF:-1 group-title="LATINO2",BR: Discovery World HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100091.ts
+#EXTINF:-1 group-title="LATINO2",BR: Disney Channel HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66059.ts
+#EXTINF:-1 group-title="LATINO2",BR: Disney Junior
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68981.ts
+#EXTINF:-1 group-title="LATINO2",BR: DISNEY XD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68980.ts
+#EXTINF:-1 group-title="LATINO2",BR: DW Latin
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95827.ts
+#EXTINF:-1 group-title="LATINO2",BR: E! Entertainment HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100810.ts
+#EXTINF:-1 group-title="LATINO2",BR: EI Maxx 1 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88087.ts
+#EXTINF:-1 group-title="LATINO2",BR: EI Maxx 2 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68978.ts
+#EXTINF:-1 group-title="LATINO2",BR: ESPN Brasil HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68976.ts
+#EXTINF:-1 group-title="LATINO2",BR: ESPN Brazil
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95830.ts
+#EXTINF:-1 group-title="LATINO2",BR: ESPN HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68975.ts
+#EXTINF:-1 group-title="LATINO2",BR: ESPN+ HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100809.ts
+#EXTINF:-1 group-title="LATINO2",BR: FISH TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68974.ts
+#EXTINF:-1 group-title="LATINO2",BR: Food Network HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88095.ts
+#EXTINF:-1 group-title="LATINO2",BR: FOX HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68973.ts
+#EXTINF:-1 group-title="LATINO2",BR: Fox Life HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66057.ts
+#EXTINF:-1 group-title="LATINO2",BR: FOX Premium 1 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88101.ts
+#EXTINF:-1 group-title="LATINO2",BR: FOX Premium 2 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88102.ts
+#EXTINF:-1 group-title="LATINO2",BR: FOX Sports 1 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88071.ts
+#EXTINF:-1 group-title="LATINO2",BR: FOX Sports 2 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68970.ts
+#EXTINF:-1 group-title="LATINO2",BR: Fox Sports HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68971.ts
+#EXTINF:-1 group-title="LATINO2",BR: Futura TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66041.ts
+#EXTINF:-1 group-title="LATINO2",BR: FX HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68969.ts
+#EXTINF:-1 group-title="LATINO2",BR: Globo MINAS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/92517.ts
+#EXTINF:-1 group-title="LATINO2",BR: Globo News HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66056.ts
+#EXTINF:-1 group-title="LATINO2",BR: Globo PT
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100800.ts
+#EXTINF:-1 group-title="LATINO2",BR: Globo Rio de Janeiro HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88103.ts
+#EXTINF:-1 group-title="LATINO2",BR: GLOBO RJ
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/92520.ts
+#EXTINF:-1 group-title="LATINO2",BR: GLOBO SP
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68967.ts
+#EXTINF:-1 group-title="LATINO2",BR: GLOBOSAT HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102991.ts
+#EXTINF:-1 group-title="LATINO2",BR: Gloob HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88059.ts
+#EXTINF:-1 group-title="LATINO2",BR: Gloob SP
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/96838.ts
+#EXTINF:-1 group-title="LATINO2",BR: GNT HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88049.ts
+#EXTINF:-1 group-title="LATINO2",BR: GOSPEL CARTOON
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/93197.ts
+#EXTINF:-1 group-title="LATINO2",BR: GOSPEL MOVIES TELEVISION
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102997.ts
+#EXTINF:-1 group-title="LATINO2",BR: H2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68966.ts
+#EXTINF:-1 group-title="LATINO2",BR: HBO 2 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68960.ts
+#EXTINF:-1 group-title="LATINO2",BR: HBO HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68965.ts
+#EXTINF:-1 group-title="LATINO2",BR: HBO PLUS E
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68962.ts
+#EXTINF:-1 group-title="LATINO2",BR: HBO Plus HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66053.ts
+#EXTINF:-1 group-title="LATINO2",BR: HBO Signature HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68961.ts
+#EXTINF:-1 group-title="LATINO2",BR: History
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66051.ts
+#EXTINF:-1 group-title="LATINO2",BR: History Channel HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68959.ts
+#EXTINF:-1 group-title="LATINO2",BR: Home & Health
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95841.ts
+#EXTINF:-1 group-title="LATINO2",BR: HORSE BRASIL HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/93192.ts
+#EXTINF:-1 group-title="LATINO2",BR: Investigation Discovery HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100808.ts
+#EXTINF:-1 group-title="LATINO2",BR: Lifetime HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88104.ts
+#EXTINF:-1 group-title="LATINO2",BR: Mana Sat
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66072.ts
+#EXTINF:-1 group-title="LATINO2",BR: MAX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68958.ts
+#EXTINF:-1 group-title="LATINO2",BR: Max Prime HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68957.ts
+#EXTINF:-1 group-title="LATINO2",BR: MAX UP
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68956.ts
+#EXTINF:-1 group-title="LATINO2",BR: Megapix HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68955.ts
+#EXTINF:-1 group-title="LATINO2",BR: Multi TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95842.ts
+#EXTINF:-1 group-title="LATINO2",BR: Multishow HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66049.ts
+#EXTINF:-1 group-title="LATINO2",BR: MUNDO AUTO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/93191.ts
+#EXTINF:-1 group-title="LATINO2",BR: MUSIC BOX
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68952.ts
+#EXTINF:-1 group-title="LATINO2",BR: NAT GEO HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66048.ts
+#EXTINF:-1 group-title="LATINO2",BR: NAT GEO WILD HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68950.ts
+#EXTINF:-1 group-title="LATINO2",BR: Nick Junior
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66047.ts
+#EXTINF:-1 group-title="LATINO2",BR: NIKELODEON
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68948.ts
+#EXTINF:-1 group-title="LATINO2",BR: Novo Tempo
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95844.ts
+#EXTINF:-1 group-title="LATINO2",BR: Paramount Channel HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68947.ts
+#EXTINF:-1 group-title="LATINO2",BR: PFC HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88065.ts
+#EXTINF:-1 group-title="LATINO2",BR: PREMIERE 2
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68944.ts
+#EXTINF:-1 group-title="LATINO2",BR: PREMIERE 3
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68943.ts
+#EXTINF:-1 group-title="LATINO2",BR: PREMIERE 4
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68942.ts
+#EXTINF:-1 group-title="LATINO2",BR: PREMIERE 5
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68941.ts
+#EXTINF:-1 group-title="LATINO2",BR: PREMIERE 6
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68940.ts
+#EXTINF:-1 group-title="LATINO2",BR: PREMIERE 7
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68939.ts
+#EXTINF:-1 group-title="LATINO2",BR: PREMIERE 8
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68938.ts
+#EXTINF:-1 group-title="LATINO2",BR: PREMIERE 9
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68937.ts
+#EXTINF:-1 group-title="LATINO2",BR: PREMIERE CLUBES
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68936.ts
+#EXTINF:-1 group-title="LATINO2",BR: Prime Box
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95846.ts
+#EXTINF:-1 group-title="LATINO2",BR: RBS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68935.ts
+#EXTINF:-1 group-title="LATINO2",BR: Record HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68934.ts
+#EXTINF:-1 group-title="LATINO2",BR: Record News HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66031.ts
+#EXTINF:-1 group-title="LATINO2",BR: REDE FAM�LIA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102985.ts
+#EXTINF:-1 group-title="LATINO2",BR: Rede TV HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66029.ts
+#EXTINF:-1 group-title="LATINO2",BR: REDE TV RJ
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100865.ts
+#EXTINF:-1 group-title="LATINO2",BR: REDE TV SP
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100864.ts
+#EXTINF:-1 group-title="LATINO2",BR: Reporter Brasil
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100863.ts
+#EXTINF:-1 group-title="LATINO2",BR: RIO TV CAMARA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102996.ts
+#EXTINF:-1 group-title="LATINO2",BR: SANCTUARIO TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102987.ts
+#EXTINF:-1 group-title="LATINO2",BR: SANTUARIO TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102998.ts
+#EXTINF:-1 group-title="LATINO2",BR: SBN HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102979.ts
+#EXTINF:-1 group-title="LATINO2",BR: SBT HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66020.ts
+#EXTINF:-1 group-title="LATINO2",BR: SBT PI
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/93189.ts
+#EXTINF:-1 group-title="LATINO2",BR: SBT Piaui
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100862.ts
+#EXTINF:-1 group-title="LATINO2",BR: SPACE
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68929.ts
+#EXTINF:-1 group-title="LATINO2",BR: SPORT TV 1
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66036.ts
+#EXTINF:-1 group-title="LATINO2",BR: SPORT TV 3
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66038.ts
+#EXTINF:-1 group-title="LATINO2",BR: SporTV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100096.ts
+#EXTINF:-1 group-title="LATINO2",BR: SporTV 1 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88062.ts
+#EXTINF:-1 group-title="LATINO2",BR: SporTV 2 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88063.ts
+#EXTINF:-1 group-title="LATINO2",BR: SporTV 3 HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88064.ts
+#EXTINF:-1 group-title="LATINO2",BR: STB
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68909.ts
+#EXTINF:-1 group-title="LATINO2",BR: STUDIO UNIVERSAL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68925.ts
+#EXTINF:-1 group-title="LATINO2",BR: TBS
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88081.ts
+#EXTINF:-1 group-title="LATINO2",BR: TC Pipoca
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95850.ts
+#EXTINF:-1 group-title="LATINO2",BR: TCM
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68924.ts
+#EXTINF:-1 group-title="LATINO2",BR: Telecine Action HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68923.ts
+#EXTINF:-1 group-title="LATINO2",BR: Telecine Cult HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68922.ts
+#EXTINF:-1 group-title="LATINO2",BR: Telecine Fun HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68921.ts
+#EXTINF:-1 group-title="LATINO2",BR: TELECINE PIPOCA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68920.ts
+#EXTINF:-1 group-title="LATINO2",BR: Telecine Premium HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68919.ts
+#EXTINF:-1 group-title="LATINO2",BR: TELECINE TOUCH
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68918.ts
+#EXTINF:-1 group-title="LATINO2",BR: TLC HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88079.ts
+#EXTINF:-1 group-title="LATINO2",BR: TNT HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68917.ts
+#EXTINF:-1 group-title="LATINO2",BR: TNT Series HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68916.ts
+#EXTINF:-1 group-title="LATINO2",BR: TOONCAST
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68915.ts
+#EXTINF:-1 group-title="LATINO2",BR: TRUTV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68914.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV APARECIDA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68905.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV BRASIL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66028.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV Brazil
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95858.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV BRAZIL ANIMADA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102989.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV CINCO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102999.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV Diario
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66076.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV Escola
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66018.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV Faap
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66058.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV FUTURA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68845.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV GAZETA HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66026.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV Geral
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95859.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV GERAL BA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102994.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV Justice
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66043.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV Record
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66023.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV Series HD
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66022.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV URBANA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102983.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV Urbana Brazil
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/95860.ts
+#EXTINF:-1 group-title="LATINO2",BR: TV VICTORIA
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/102982.ts
+#EXTINF:-1 group-title="LATINO2",BR: TVN
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100860.ts
+#EXTINF:-1 group-title="LATINO2",BR: UNIVERSAL
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66021.ts
+#EXTINF:-1 group-title="LATINO2",BR: Universal Channel
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/88073.ts
+#EXTINF:-1 group-title="LATINO2",BR: Vem e Ve TV
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/66077.ts
+#EXTINF:-1 group-title="LATINO2",BR: VH1
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/68912.ts
+#EXTINF:-1 group-title="LATINO2",BR: Web TV Minas
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/100859.ts
+#EXTINF:-1 group-title="LATINO2",BR: WOOHOO
+http://landiptv.live:8080/live/0heYiIfM20/1IJaaJeF0d/92519.ts
